@@ -53,7 +53,8 @@ Live camera feed compares real-time faces against the stored dataset.
 🔹 Attendance Logging  
 If a match is found, the system logs the name and timestamp into a CSV/DB file.
 
-![image](https://github.com/user-attachments/assets/3f33d218-1ea9-4979-94db-d37a7628244e)
+![image](https://github.com/user-attachments/assets/b53649cb-8cfb-498c-b53c-d0f534f5a865)
+
 
 ---
 
